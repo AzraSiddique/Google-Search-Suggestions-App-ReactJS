@@ -1,0 +1,19 @@
+.suggestion {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.suggestion {
+  margin-right: 50px;
+  width: 300px;
+}
+.arrow {
+  width: 30px;
+  height: 30px;
+  margin-right: 20px;
+}
+
+.suggestion-item {
+  display: flex;
+  align-items: center;
+}
